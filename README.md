@@ -36,3 +36,9 @@ Lorem ipsum
 [Youtube](https://www.youtube.com/watch?v=PF_-o2EJfvs)
 
 espacio
+
+#### Desde word
+
+![Alt text](image-2.png)
+
+![Alt text](image-3.png)
