@@ -23,6 +23,16 @@ Lorem ipsum
 </html>
 ```
 
+```json
+    {
+        "name": "Alberto"
+    }
+```
+
+```js
+console.log('hola mundo');
+```
+
 #### Cargar imagen
 
 ![Texto alternativo](./avion.png)
